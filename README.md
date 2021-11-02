@@ -1,1 +1,1 @@
-# odin-css-exercises-mirror
+# odin-css-exercises
