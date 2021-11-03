@@ -1,0 +1,15 @@
+.oddelem{
+    background-color: #d87093;
+    font-family: Verdana, sans-serif;
+}
+#number2{
+    color:#0000ff;
+    font-size: 36px;
+}.oddelem.font-size{
+    font-size: 24px;
+}
+#number4{
+    background-color:#90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
