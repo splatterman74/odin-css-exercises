@@ -1,0 +1,74 @@
+
+body{
+    margin: 0;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+.darkbkgnd{
+    background-color:#272440;
+    color: white;
+}
+
+#header,#footer{
+    height: 50px;
+}
+
+#header{
+    display: flex;
+    justify-content: space-between;
+}
+
+#footer{
+    display: flex;
+    justify-content: center;
+}
+
+#banner{
+    display: flex;
+    justify-content: space-between;
+}
+
+#signincard{
+    width: 400px;
+}
+
+#imgplacehold{
+    width: 400px;
+    background-color: lightgrey;
+    color: black;
+    text-align: center;
+}
+
+#content{
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+#randominfo p{
+    font-weight: bold;
+    height: 200px;
+}
+
+#testimonial{
+    background-color: lightgrey;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#testimtext{
+    font-style: italic;
+}
+
+#signature{
+    font-weight: bold;
+    font-size: .8em;
+    text-align: right;
+}
